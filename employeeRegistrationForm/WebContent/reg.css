@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+#h
+{
+	border:1px black solid;
+height: 70px;
+  width: 410px; 
+  margin-left: auto;
+  margin-right: auto;
+box-shadow: 10px 0px 8px #888888;
+}
+div{	
+box-shadow: 10px 10px 8px #888888;
+border:1px black solid;
+height: 350px;
+  width: 410px; 
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("pic1.jpg");
+  
+}
+table
+{
+margin-top:30px;
+margin-bottom:30px;
+}
+input
+{
+	border-radius: 12px;
+}
+#b
+{
+	background-image: url("pic.jpg");
+	background-size: cover;
+}
+#a
+{
+	background-image: url("pic2.jpg");
+	background-size: cover;
+}
+#d
+{
+box-shadow: 10px 10px 8px #888888;
+border:1px black solid;
+  height: 600px;
+  width: 600px; 
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("pic1.jpg");
+}
+
